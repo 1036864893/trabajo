@@ -1,0 +1,37 @@
+.main-section {
+    background: url('https://th.bing.com/th/id/OIP.wIzcwfpCcEHduBpz7Wk1LQHaEK?rs=1&pid=ImgDetMain') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.cta-buttons .btn {
+    margin: 10px;
+}
+
+.features-section h3 {
+    margin-top: 15px;
+}
+
+.testimonials-section img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.signup-section .form-control {
+    margin-bottom: 10px;
+}
+
+.footer-section a {
+    color: #f8f9fa;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+h1{
+    color: rgb(0, 213, 255);
+}
